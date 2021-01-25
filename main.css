@@ -1,0 +1,33 @@
+/* Dark mode */
+.bg-lightBlue {
+  background-color: #e3f2fd;
+  box-shadow: 0px 0px 10px black;
+}
+.bg-lightBody {
+  background-color: #dcdfe4;
+}
+.bg-darkNight {
+  background-color: #011100;
+  box-shadow: 0px 0px 10px black;
+}
+.bg-darkNightBody {
+  background-color: #343a40;
+  color: white;
+}
+.cursor {
+  cursor: pointer;
+}
+/* Config links */
+.textDecoration:hover {
+  text-decoration-line: underline;
+}
+.fontSize {
+  font-size: 18px;
+}
+/* Content */
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25%;
+}
